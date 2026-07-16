@@ -72,7 +72,7 @@ If you're a CFO, CPA, or bookkeeper serving clients: **Casterly isn't just a too
 
 ## Who's behind this
 
-I'm Stephen — Director of Finance by day, founder of Walden and [Casterly.ai](#) by every other waking hour. My whole thing is the intersection of financial diagnosis, AI-assisted systems, and actually shipping. This repo is me doing to my market what the people I learned from did to me: give away the sauce, trust that the right people find their way to the table.
+I'm Stephen — Founder of Walden and [Casterly.ai](#) by every other waking hour. I'm herently lazy so I am always trying to find better and faster ways to provide value with minimal effort. If you found this repo, you know there is a faster, easier way but you are not sure how to make yourself or your business more money. This repo is a step on the journey. 
 
 If you got value here, the highest compliment is a ⭐ and a share with the one finance person in your life who needs to see it.
 
