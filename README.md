@@ -1,81 +1,40 @@
 # walden-ai
 
-### The operating system behind modern, AI-native accounting and finance professionals
+The skills and workflows I use to run a CFO agency at [Walden](https://www.waldensg.com/) in far fewer hours.
 
-The skills, the workflows, and the thinking I use to run our CFO agency at [Walden]((https://www.waldensg.com/)) with a fraction of the hours it used to take.
+## Who it's for
 
----
+Controllers, CFOs, accountants, and bookkeepers who want to do more client work in less time — and business owners tired of the busywork.
 
-## You're here because you're one of these people
+## What's in here
 
-**The finance pro who can feel the ground moving.** Controller, CFO, senior accountant: you already see that "AI-native" is about to be the difference between the operators who compound and the ones who get compressed. You don't want to be the last one still doing it by hand.
+Claude Code skills: instruction sets Claude loads on its own when a request matches. Each is a `SKILL.md` plus any templates.
 
-**The CPA who doesn't have the staff to do the work. ** You're leaving money on the table and relationships are crumbling because you are not responding and not able to do the work. 
+- **Bank statement analysis** — recurring costs, fixed vs. variable, break-even.
+- **QBO audit-log analysis** — what work is done, how long it takes, where the books are thin.
+- **AR & report formatting** — QBO screenshots into paste-ready tables.
+- **Cost & break-even modeling** — raw numbers to a monthly cost structure.
+- **Outreach & marketing** — cold emails, pitches, and plans from a real signal.
 
-**The bookkeeper/accountant who keeps hitting the same ceiling.** You are overworked, underpaid, and need a better way to take on more client work with less of your time.
-
-**The business owner who is just… tired.** You found this repo because you're drowning in exactly the busywork these skills automate. 
-
-
----
-
-## What's actually in here
-
-Every skill below started as a repetitive, soul-draining task we noticed we kept doing over and over and over and you probably do too. 
-
-
-
----
-
-## Use it in 60 seconds
+## Use it
 
 ```bash
-git clone https://github.com/<your-username>/walden-ai.git
-cd walden-ai
-
-# Grab one skill
-cp -r skills/bank-statement-analyzer ~/.claude/skills/
-
-# Or take everything
-cp -r skills/* ~/.claude/skills/
+git clone https://github.com/swray1/walden-ai.git
+cp -r walden-ai/skills/* ~/.claude/skills/
 ```
 
-Reload [Claude Code](https://docs.claude.com/en/docs/claude-code/skills), and it picks them up automatically. When your request matches a skill, Claude reaches for it on its own — you don't have to name it. Each skill is a `SKILL.md` (the instructions Claude reads) plus any templates it needs. Open one up. Copy the pattern. Build your own.
+Reload Claude Code. It picks them up automatically. If it saved you time, star the repo.
 
-**If this saved you an hour, star the repo.** That's the only "payment" the free tier asks for — and it's how the next person like you finds it.
+## Work with me
 
----
+- **Go AI-native.** Fork the skills and build on them. I post new ones on [LinkedIn](https://www.linkedin.com/in/waldenstephen/).
+- **CPAs & bookkeepers.** Refer CFO work and earn on it. [Partner terms](PARTNERS.md).
+- **Operators.** [Walden](https://www.waldensg.com/) runs your finance function. [Casterly](https://casterly.ai) forecasts your cash from live bank data.
 
-## Pick your door
+## Who's behind it
 
-### → You want to go AI-native
-You're already in the right place. Take the skills, fork the repo, build on them. Then [follow me on LinkedIn](#) — this is where I publish the systems before they're packaged. The finance operators who move first on this are the ones I end up building with.
-
-### → You're a CPA with clients who need CFO work
-Send them my way and get paid for it. **[Partner program terms — see PARTNERS.md](#).** You keep doing what you're great at; your clients get the strategy layer; you earn on the referral. Clean handoff, real cut.
-
-### → You're a bookkeeper hitting the CFO ceiling
-Same deal, your direction. When the client outgrows the books, refer the CFO work up instead of losing the account. You stay the hero, you keep the relationship, you get paid on the referral. **[Partner program terms — see PARTNERS.md](#).**
-
-### → You're an operator who's just done with the busywork
-Two ways I can help:
-- **[Walden Solutions Group](#)** runs your finance function for you — fractional CFO and bookkeeping, the same workflows this repo automates, pointed at your books.
-- **[Casterly.ai](#)** forecasts your cash flow straight from live bank data. No manual QuickBooks syncing, no spreadsheets — just your real cash position, before it becomes a problem.
-
----
-
-## Casterly, for the finance bros and gals
-
-If you're a CFO, CPA, or bookkeeper serving clients: **Casterly isn't just a tool for you — it's a tool you can deploy for *them*.** Live-bank-data cash forecasting you can put in front of every client, under your advisory. Partners get early access and preferred terms. **[Get on the partner list](#).**
-
----
-
-## Who's behind this
-
-I'm Stephen — Founder of Walden and [Casterly.ai](#) by every other waking hour. I'm herently lazy so I am always trying to find better and faster ways to provide value with minimal effort. If you found this repo, you know there is a faster, easier way but you are not sure how to make yourself or your business more money. This repo is a step on the journey. 
-
-If you got value here, the highest compliment is a ⭐ and a share with the one finance person in your life who needs to see it.
+I'm Stephen — founder of [Walden](https://www.waldensg.com/), building [Casterly](https://casterly.ai). Always looking for the faster way.
 
 ## License
 
-[MIT](LICENSE) — use them, fork them, ship them, bill with them. Attribution appreciated, never required.
+[MIT](LICENSE). Use, fork, ship, bill with them.
